@@ -22,7 +22,11 @@ function App() {
 
           <p>Hola ... =P</p>
         </a>
+          
+        <p>PRUEBA DE UN HOLA MUNDO</p>
+        <text>REGISTRO DE UN TEXTO DESDE REACT</text>
       </header>
+      
     </div>
   );
 }
