@@ -18,7 +18,9 @@ function App() {
           Learn React y Github
 
 
-          <p>Otro texto</p>
+          <p>txt_prueba</p>
+
+          <p>Hola ... =P</p>
         </a>
       </header>
     </div>
