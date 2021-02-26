@@ -17,7 +17,11 @@ function App() {
         >
           Learn React
         </a>
+          
+        <p>PRUEBA DE UN HOLA MUNDO</p>
+        <text>REGISTRO DE UN TEXTO DESDE REACT</text>
       </header>
+      
     </div>
   );
 }
