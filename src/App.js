@@ -16,6 +16,9 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React y Github
+
+
+          <p>Otro texto</p>
         </a>
       </header>
     </div>
